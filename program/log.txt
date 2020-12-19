@@ -1,0 +1,270 @@
+Reading Lines...
+Reading Over!
+dataset finish!
+Iterator finish!
+start train
+EPOCH 0 --------------------------------------------------------------
+Epoch Step:   1   Loss:   8.704996    time:   0m 4s     Tokens per Sec:   2416     Step:      2      Lr: 0.00000025
+Epoch Step:  51   Loss:   7.816615    time:  0m 41s     Tokens per Sec:   6893     Step:     52      Lr: 0.00000642
+Epoch Step: 101   Loss:   7.843203    time:  1m 18s     Tokens per Sec:   6746     Step:    102      Lr: 0.00001260
+Epoch Step: 151   Loss:   7.130464    time:  1m 56s     Tokens per Sec:   6850     Step:    152      Lr: 0.00001878
+Epoch Step: 201   Loss:   6.655270    time:  2m 33s     Tokens per Sec:   6891     Step:    202      Lr: 0.00002495
+Epoch Step: 251   Loss:   5.898080    time:  3m 11s     Tokens per Sec:   6850     Step:    252      Lr: 0.00003113
+Epoch Step: 301   Loss:   5.701418    time:  3m 49s     Tokens per Sec:   6662     Step:    302      Lr: 0.00003730
+Epoch Step: 351   Loss:   4.492328    time:  4m 26s     Tokens per Sec:   6807     Step:    352      Lr: 0.00004348
+Epoch Step: 401   Loss:   4.543738    time:   5m 4s     Tokens per Sec:   6743     Step:    402      Lr: 0.00004966
+Epoch Step: 451   Loss:   4.519855    time:  5m 41s     Tokens per Sec:   6932     Step:    452      Lr: 0.00005583
+Epoch Step:   1   Loss:   4.255707    time:  5m 51s     Tokens per Sec:   5276     Step:      0      Lr: 0.00000000
+tensor(4.3369, device='cuda:0')
+EPOCH 1 --------------------------------------------------------------
+Epoch Step:   1   Loss:   4.244143    time:  5m 55s     Tokens per Sec:   3058     Step:    465      Lr: 0.00005744
+Epoch Step:  51   Loss:   4.817994    time:  6m 32s     Tokens per Sec:   6676     Step:    515      Lr: 0.00006362
+Epoch Step: 101   Loss:   4.067208    time:  7m 10s     Tokens per Sec:   6842     Step:    565      Lr: 0.00006979
+Epoch Step: 151   Loss:   3.519449    time:  7m 48s     Tokens per Sec:   6709     Step:    615      Lr: 0.00007597
+Epoch Step: 201   Loss:   3.782274    time:  8m 25s     Tokens per Sec:   6708     Step:    665      Lr: 0.00008215
+Epoch Step: 251   Loss:   4.241255    time:   9m 2s     Tokens per Sec:   6955     Step:    715      Lr: 0.00008832
+Epoch Step: 301   Loss:   3.559248    time:  9m 39s     Tokens per Sec:   6919     Step:    765      Lr: 0.00009450
+Epoch Step: 351   Loss:   3.619660    time: 10m 16s     Tokens per Sec:   7010     Step:    815      Lr: 0.00010067
+Epoch Step: 401   Loss:   2.752216    time: 10m 54s     Tokens per Sec:   6730     Step:    865      Lr: 0.00010685
+Epoch Step: 451   Loss:   2.951890    time: 11m 32s     Tokens per Sec:   6825     Step:    915      Lr: 0.00011303
+Epoch Step:   1   Loss:   3.036484    time: 11m 41s     Tokens per Sec:   5368     Step:      0      Lr: 0.00000000
+tensor(3.1659, device='cuda:0')
+EPOCH 2 --------------------------------------------------------------
+Epoch Step:   1   Loss:   3.287746    time: 11m 45s     Tokens per Sec:   3537     Step:    928      Lr: 0.00011463
+Epoch Step:  51   Loss:   3.593252    time: 12m 22s     Tokens per Sec:   6818     Step:    978      Lr: 0.00012081
+Epoch Step: 101   Loss:   2.724557    time: 12m 59s     Tokens per Sec:   6880     Step:   1028      Lr: 0.00012699
+Epoch Step: 151   Loss:   3.109224    time: 13m 36s     Tokens per Sec:   6988     Step:   1078      Lr: 0.00013316
+Epoch Step: 201   Loss:   2.580784    time: 14m 14s     Tokens per Sec:   6725     Step:   1128      Lr: 0.00013934
+Epoch Step: 251   Loss:   2.336992    time: 14m 52s     Tokens per Sec:   6879     Step:   1178      Lr: 0.00014551
+Epoch Step: 301   Loss:   2.394601    time: 15m 29s     Tokens per Sec:   6728     Step:   1228      Lr: 0.00015169
+Epoch Step: 351   Loss:   2.004696    time:  16m 7s     Tokens per Sec:   6753     Step:   1278      Lr: 0.00015787
+Epoch Step: 401   Loss:   2.303092    time: 16m 45s     Tokens per Sec:   6857     Step:   1328      Lr: 0.00016404
+Epoch Step: 451   Loss:   1.940872    time: 17m 23s     Tokens per Sec:   6646     Step:   1378      Lr: 0.00017022
+Epoch Step:   1   Loss:   1.777966    time: 17m 32s     Tokens per Sec:   5354     Step:      0      Lr: 0.00000000
+tensor(1.8830, device='cuda:0')
+EPOCH 3 --------------------------------------------------------------
+Epoch Step:   1   Loss:   1.888771    time: 17m 36s     Tokens per Sec:   3447     Step:   1391      Lr: 0.00017183
+Epoch Step:  51   Loss:   1.707578    time: 18m 14s     Tokens per Sec:   6701     Step:   1441      Lr: 0.00017800
+Epoch Step: 101   Loss:   1.728830    time: 18m 51s     Tokens per Sec:   6892     Step:   1491      Lr: 0.00018418
+Epoch Step: 151   Loss:   1.542043    time: 19m 29s     Tokens per Sec:   6841     Step:   1541      Lr: 0.00019035
+Epoch Step: 201   Loss:   1.430920    time:  20m 6s     Tokens per Sec:   6942     Step:   1591      Lr: 0.00019653
+Epoch Step: 251   Loss:   1.308502    time: 20m 44s     Tokens per Sec:   6808     Step:   1641      Lr: 0.00020271
+Epoch Step: 301   Loss:   2.000133    time: 21m 22s     Tokens per Sec:   6748     Step:   1691      Lr: 0.00020888
+Epoch Step: 351   Loss:   1.200903    time: 21m 59s     Tokens per Sec:   6809     Step:   1741      Lr: 0.00021506
+Epoch Step: 401   Loss:   1.434427    time: 22m 37s     Tokens per Sec:   6830     Step:   1791      Lr: 0.00022124
+Epoch Step: 451   Loss:   2.218038    time: 23m 14s     Tokens per Sec:   6787     Step:   1841      Lr: 0.00022741
+Epoch Step:   1   Loss:   1.079955    time: 23m 23s     Tokens per Sec:   5287     Step:      0      Lr: 0.00000000
+tensor(1.2046, device='cuda:0')
+EPOCH 4 --------------------------------------------------------------
+Epoch Step:   1   Loss:   1.874308    time: 23m 27s     Tokens per Sec:   3542     Step:   1854      Lr: 0.00022902
+Epoch Step:  51   Loss:   1.043508    time:  24m 5s     Tokens per Sec:   6947     Step:   1904      Lr: 0.00023519
+Epoch Step: 101   Loss:   1.023661    time: 24m 42s     Tokens per Sec:   6605     Step:   1954      Lr: 0.00024137
+Epoch Step: 151   Loss:   1.111541    time: 25m 20s     Tokens per Sec:   6909     Step:   2004      Lr: 0.00024755
+Epoch Step: 201   Loss:   1.114881    time: 25m 56s     Tokens per Sec:   6939     Step:   2054      Lr: 0.00025372
+Epoch Step: 251   Loss:   1.125138    time: 26m 34s     Tokens per Sec:   6762     Step:   2104      Lr: 0.00025990
+Epoch Step: 301   Loss:   0.955146    time: 27m 12s     Tokens per Sec:   6723     Step:   2154      Lr: 0.00026608
+Epoch Step: 351   Loss:   0.954708    time: 27m 50s     Tokens per Sec:   6750     Step:   2204      Lr: 0.00027225
+Epoch Step: 401   Loss:   0.915495    time: 28m 27s     Tokens per Sec:   6884     Step:   2254      Lr: 0.00027843
+Epoch Step: 451   Loss:   0.932230    time:  29m 5s     Tokens per Sec:   6783     Step:   2304      Lr: 0.00028460
+Epoch Step:   1   Loss:   0.811598    time: 29m 14s     Tokens per Sec:   5277     Step:      0      Lr: 0.00000000
+tensor(0.8979, device='cuda:0')
+EPOCH 5 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.817245    time: 29m 18s     Tokens per Sec:   3122     Step:   2317      Lr: 0.00028621
+Epoch Step:  51   Loss:   1.269758    time: 29m 56s     Tokens per Sec:   6898     Step:   2367      Lr: 0.00029239
+Epoch Step: 101   Loss:   0.810597    time: 30m 33s     Tokens per Sec:   6744     Step:   2417      Lr: 0.00029856
+Epoch Step: 151   Loss:   0.801404    time: 31m 11s     Tokens per Sec:   6758     Step:   2467      Lr: 0.00030474
+Epoch Step: 201   Loss:   1.655665    time: 31m 48s     Tokens per Sec:   6695     Step:   2517      Lr: 0.00031092
+Epoch Step: 251   Loss:   0.873338    time: 32m 26s     Tokens per Sec:   6744     Step:   2567      Lr: 0.00031709
+Epoch Step: 301   Loss:   0.822634    time:  33m 3s     Tokens per Sec:   6889     Step:   2617      Lr: 0.00032327
+Epoch Step: 351   Loss:   0.764367    time: 33m 41s     Tokens per Sec:   6925     Step:   2667      Lr: 0.00032945
+Epoch Step: 401   Loss:   1.275031    time: 34m 18s     Tokens per Sec:   6901     Step:   2717      Lr: 0.00033562
+Epoch Step: 451   Loss:   0.717387    time: 34m 55s     Tokens per Sec:   6916     Step:   2767      Lr: 0.00034180
+Epoch Step:   1   Loss:   0.632140    time:  35m 5s     Tokens per Sec:   5328     Step:      0      Lr: 0.00000000
+tensor(0.7075, device='cuda:0')
+EPOCH 6 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.669516    time:  35m 9s     Tokens per Sec:   3414     Step:   2780      Lr: 0.00034340
+Epoch Step:  51   Loss:   0.800238    time: 35m 47s     Tokens per Sec:   6880     Step:   2830      Lr: 0.00034958
+Epoch Step: 101   Loss:   0.638864    time: 36m 24s     Tokens per Sec:   6820     Step:   2880      Lr: 0.00035576
+Epoch Step: 151   Loss:   0.634398    time:  37m 1s     Tokens per Sec:   6821     Step:   2930      Lr: 0.00036193
+Epoch Step: 201   Loss:   0.676345    time: 37m 40s     Tokens per Sec:   6619     Step:   2980      Lr: 0.00036811
+Epoch Step: 251   Loss:   0.925369    time: 38m 17s     Tokens per Sec:   6784     Step:   3030      Lr: 0.00037429
+Epoch Step: 301   Loss:   0.595748    time: 38m 55s     Tokens per Sec:   6892     Step:   3080      Lr: 0.00038046
+Epoch Step: 351   Loss:   0.688655    time: 39m 32s     Tokens per Sec:   6855     Step:   3130      Lr: 0.00038664
+Epoch Step: 401   Loss:   0.755431    time: 40m 10s     Tokens per Sec:   6816     Step:   3180      Lr: 0.00039281
+Epoch Step: 451   Loss:   0.622702    time: 40m 47s     Tokens per Sec:   6671     Step:   3230      Lr: 0.00039899
+Epoch Step:   1   Loss:   0.563508    time: 40m 57s     Tokens per Sec:   5318     Step:      0      Lr: 0.00000000
+tensor(0.6042, device='cuda:0')
+EPOCH 7 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.505078    time:  41m 1s     Tokens per Sec:   3366     Step:   3243      Lr: 0.00040060
+Epoch Step:  51   Loss:   0.637483    time: 41m 38s     Tokens per Sec:   6830     Step:   3293      Lr: 0.00040677
+Epoch Step: 101   Loss:   0.561562    time: 42m 15s     Tokens per Sec:   6936     Step:   3343      Lr: 0.00041295
+Epoch Step: 151   Loss:   0.687156    time: 42m 53s     Tokens per Sec:   6636     Step:   3393      Lr: 0.00041913
+Epoch Step: 201   Loss:   0.703735    time: 43m 31s     Tokens per Sec:   6957     Step:   3443      Lr: 0.00042530
+Epoch Step: 251   Loss:   0.550547    time:  44m 8s     Tokens per Sec:   6821     Step:   3493      Lr: 0.00043148
+Epoch Step: 301   Loss:   0.582590    time: 44m 46s     Tokens per Sec:   6829     Step:   3543      Lr: 0.00043765
+Epoch Step: 351   Loss:   0.764740    time: 45m 23s     Tokens per Sec:   6739     Step:   3593      Lr: 0.00044383
+Epoch Step: 401   Loss:   0.667347    time:  46m 0s     Tokens per Sec:   6902     Step:   3643      Lr: 0.00045001
+Epoch Step: 451   Loss:   0.661098    time: 46m 37s     Tokens per Sec:   6960     Step:   3693      Lr: 0.00045618
+Epoch Step:   1   Loss:   0.560256    time: 46m 46s     Tokens per Sec:   5300     Step:      0      Lr: 0.00000000
+tensor(0.6069, device='cuda:0')
+EPOCH 8 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.545402    time: 46m 51s     Tokens per Sec:   3537     Step:   3706      Lr: 0.00045779
+Epoch Step:  51   Loss:   0.556262    time: 47m 28s     Tokens per Sec:   6918     Step:   3756      Lr: 0.00046397
+Epoch Step: 101   Loss:   0.596393    time:  48m 6s     Tokens per Sec:   6716     Step:   3806      Lr: 0.00047014
+Epoch Step: 151   Loss:   0.661181    time: 48m 43s     Tokens per Sec:   6760     Step:   3856      Lr: 0.00047632
+Epoch Step: 201   Loss:   0.544518    time: 49m 21s     Tokens per Sec:   6885     Step:   3906      Lr: 0.00048249
+Epoch Step: 251   Loss:   2.080869    time: 49m 59s     Tokens per Sec:   6859     Step:   3956      Lr: 0.00048867
+Epoch Step: 301   Loss:   0.497194    time: 50m 36s     Tokens per Sec:   6828     Step:   4006      Lr: 0.00049485
+Epoch Step: 351   Loss:   0.607974    time: 51m 14s     Tokens per Sec:   6813     Step:   4056      Lr: 0.00050102
+Epoch Step: 401   Loss:   0.545661    time: 51m 51s     Tokens per Sec:   6459     Step:   4106      Lr: 0.00050720
+Epoch Step: 451   Loss:   0.511231    time: 52m 29s     Tokens per Sec:   6860     Step:   4156      Lr: 0.00051338
+Epoch Step:   1   Loss:   0.476652    time: 52m 38s     Tokens per Sec:   5320     Step:      0      Lr: 0.00000000
+tensor(0.5342, device='cuda:0')
+EPOCH 9 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.606059    time: 52m 43s     Tokens per Sec:   3179     Step:   4169      Lr: 0.00051498
+Epoch Step:  51   Loss:   0.537859    time: 53m 20s     Tokens per Sec:   6705     Step:   4219      Lr: 0.00052116
+Epoch Step: 101   Loss:   0.563201    time: 53m 58s     Tokens per Sec:   6675     Step:   4269      Lr: 0.00052733
+Epoch Step: 151   Loss:   0.497018    time: 54m 35s     Tokens per Sec:   6963     Step:   4319      Lr: 0.00053351
+Epoch Step: 201   Loss:   0.495665    time: 55m 12s     Tokens per Sec:   6880     Step:   4369      Lr: 0.00053969
+Epoch Step: 251   Loss:   0.489580    time: 55m 50s     Tokens per Sec:   6730     Step:   4419      Lr: 0.00054586
+Epoch Step: 301   Loss:   0.492148    time: 56m 27s     Tokens per Sec:   6950     Step:   4469      Lr: 0.00055204
+Epoch Step: 351   Loss:   0.813343    time:  57m 4s     Tokens per Sec:   6985     Step:   4519      Lr: 0.00055822
+Epoch Step: 401   Loss:   0.481393    time: 57m 42s     Tokens per Sec:   6898     Step:   4569      Lr: 0.00056439
+Epoch Step: 451   Loss:   0.512796    time: 58m 19s     Tokens per Sec:   6766     Step:   4619      Lr: 0.00057057
+Epoch Step:   1   Loss:   0.462552    time: 58m 29s     Tokens per Sec:   5363     Step:      0      Lr: 0.00000000
+tensor(0.4882, device='cuda:0')
+EPOCH 10 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.455680    time: 58m 33s     Tokens per Sec:   3499     Step:   4632      Lr: 0.00057217
+Epoch Step:  51   Loss:   0.446857    time: 59m 10s     Tokens per Sec:   6658     Step:   4682      Lr: 0.00057835
+Epoch Step: 101   Loss:   0.559307    time: 59m 48s     Tokens per Sec:   6839     Step:   4732      Lr: 0.00058453
+Epoch Step: 151   Loss:   0.490590    time: 60m 25s     Tokens per Sec:   6788     Step:   4782      Lr: 0.00059070
+Epoch Step: 201   Loss:   0.486087    time:  61m 2s     Tokens per Sec:   6721     Step:   4832      Lr: 0.00059688
+Epoch Step: 251   Loss:   1.296575    time: 61m 40s     Tokens per Sec:   6850     Step:   4882      Lr: 0.00060306
+Epoch Step: 301   Loss:   0.434549    time: 62m 17s     Tokens per Sec:   6935     Step:   4932      Lr: 0.00060923
+Epoch Step: 351   Loss:   0.558884    time: 62m 55s     Tokens per Sec:   6806     Step:   4982      Lr: 0.00061541
+Epoch Step: 401   Loss:   0.455853    time: 63m 32s     Tokens per Sec:   6931     Step:   5032      Lr: 0.00062159
+Epoch Step: 451   Loss:   0.491040    time: 64m 10s     Tokens per Sec:   6869     Step:   5082      Lr: 0.00062776
+Epoch Step:   1   Loss:   0.452251    time: 64m 19s     Tokens per Sec:   5377     Step:      0      Lr: 0.00000000
+tensor(0.4709, device='cuda:0')
+EPOCH 11 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.512873    time: 64m 24s     Tokens per Sec:   3174     Step:   5095      Lr: 0.00062937
+Epoch Step:  51   Loss:   0.436134    time:  65m 1s     Tokens per Sec:   6816     Step:   5145      Lr: 0.00063554
+Epoch Step: 101   Loss:   0.443264    time: 65m 38s     Tokens per Sec:   6771     Step:   5195      Lr: 0.00064172
+Epoch Step: 151   Loss:   0.499211    time: 66m 15s     Tokens per Sec:   6929     Step:   5245      Lr: 0.00064790
+Epoch Step: 201   Loss:   0.430608    time: 66m 53s     Tokens per Sec:   6920     Step:   5295      Lr: 0.00065407
+Epoch Step: 251   Loss:   0.545689    time: 67m 30s     Tokens per Sec:   6745     Step:   5345      Lr: 0.00066025
+Epoch Step: 301   Loss:   0.444481    time:  68m 8s     Tokens per Sec:   6823     Step:   5395      Lr: 0.00066643
+Epoch Step: 351   Loss:   0.447656    time: 68m 45s     Tokens per Sec:   6778     Step:   5445      Lr: 0.00067260
+Epoch Step: 401   Loss:   0.464805    time: 69m 23s     Tokens per Sec:   6815     Step:   5495      Lr: 0.00067878
+Epoch Step: 451   Loss:   0.917960    time:  70m 0s     Tokens per Sec:   6853     Step:   5545      Lr: 0.00068495
+Epoch Step:   1   Loss:   0.382529    time: 70m 10s     Tokens per Sec:   5299     Step:      0      Lr: 0.00000000
+tensor(0.4087, device='cuda:0')
+EPOCH 12 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.362134    time: 70m 14s     Tokens per Sec:   3635     Step:   5558      Lr: 0.00068656
+Epoch Step:  51   Loss:   0.435133    time: 70m 51s     Tokens per Sec:   6849     Step:   5608      Lr: 0.00069274
+Epoch Step: 101   Loss:   0.419439    time: 71m 28s     Tokens per Sec:   6812     Step:   5658      Lr: 0.00069891
+Epoch Step: 151   Loss:   0.397361    time:  72m 6s     Tokens per Sec:   6803     Step:   5708      Lr: 0.00070509
+Epoch Step: 201   Loss:   0.412588    time: 72m 44s     Tokens per Sec:   6702     Step:   5758      Lr: 0.00071127
+Epoch Step: 251   Loss:   0.427461    time: 73m 21s     Tokens per Sec:   6774     Step:   5808      Lr: 0.00071744
+Epoch Step: 301   Loss:   0.455774    time: 73m 59s     Tokens per Sec:   6845     Step:   5858      Lr: 0.00072362
+Epoch Step: 351   Loss:   0.417507    time: 74m 36s     Tokens per Sec:   7011     Step:   5908      Lr: 0.00072979
+Epoch Step: 401   Loss:   0.812764    time: 75m 13s     Tokens per Sec:   6871     Step:   5958      Lr: 0.00073597
+Epoch Step: 451   Loss:   0.494218    time: 75m 50s     Tokens per Sec:   6719     Step:   6008      Lr: 0.00074215
+Epoch Step:   1   Loss:   0.381350    time:  76m 0s     Tokens per Sec:   5299     Step:      0      Lr: 0.00000000
+tensor(0.4029, device='cuda:0')
+EPOCH 13 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.448908    time:  76m 4s     Tokens per Sec:   3640     Step:   6021      Lr: 0.00074375
+Epoch Step:  51   Loss:   0.506256    time: 76m 41s     Tokens per Sec:   6824     Step:   6071      Lr: 0.00074993
+Epoch Step: 101   Loss:   0.378475    time: 77m 19s     Tokens per Sec:   6838     Step:   6121      Lr: 0.00075611
+Epoch Step: 151   Loss:   0.503310    time: 77m 56s     Tokens per Sec:   6865     Step:   6171      Lr: 0.00076228
+Epoch Step: 201   Loss:   1.971940    time: 78m 34s     Tokens per Sec:   6705     Step:   6221      Lr: 0.00076846
+Epoch Step: 251   Loss:   0.433819    time: 79m 12s     Tokens per Sec:   6747     Step:   6271      Lr: 0.00077463
+Epoch Step: 301   Loss:   0.432236    time: 79m 49s     Tokens per Sec:   6927     Step:   6321      Lr: 0.00078081
+Epoch Step: 351   Loss:   0.425803    time: 80m 27s     Tokens per Sec:   6798     Step:   6371      Lr: 0.00078699
+Epoch Step: 401   Loss:   0.551148    time:  81m 4s     Tokens per Sec:   6811     Step:   6421      Lr: 0.00079316
+Epoch Step: 451   Loss:   0.502304    time: 81m 41s     Tokens per Sec:   6958     Step:   6471      Lr: 0.00079934
+Epoch Step:   1   Loss:   0.387496    time: 81m 50s     Tokens per Sec:   5382     Step:      0      Lr: 0.00000000
+tensor(0.4082, device='cuda:0')
+EPOCH 14 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.379480    time: 81m 54s     Tokens per Sec:   3682     Step:   6484      Lr: 0.00080095
+Epoch Step:  51   Loss:   0.349420    time: 82m 32s     Tokens per Sec:   6858     Step:   6534      Lr: 0.00080712
+Epoch Step: 101   Loss:   0.403507    time: 83m 10s     Tokens per Sec:   6805     Step:   6584      Lr: 0.00081330
+Epoch Step: 151   Loss:   0.623022    time: 83m 47s     Tokens per Sec:   6814     Step:   6634      Lr: 0.00081947
+Epoch Step: 201   Loss:   0.393883    time: 84m 25s     Tokens per Sec:   6729     Step:   6684      Lr: 0.00082565
+Epoch Step: 251   Loss:   0.439777    time:  85m 2s     Tokens per Sec:   6931     Step:   6734      Lr: 0.00083183
+Epoch Step: 301   Loss:   0.446690    time: 85m 40s     Tokens per Sec:   6686     Step:   6784      Lr: 0.00083800
+Epoch Step: 351   Loss:   0.427327    time: 86m 17s     Tokens per Sec:   6678     Step:   6834      Lr: 0.00084418
+Epoch Step: 401   Loss:   0.447130    time: 86m 55s     Tokens per Sec:   6822     Step:   6884      Lr: 0.00085036
+Epoch Step: 451   Loss:   0.828246    time: 87m 31s     Tokens per Sec:   7076     Step:   6934      Lr: 0.00085653
+Epoch Step:   1   Loss:   0.368773    time: 87m 41s     Tokens per Sec:   5281     Step:      0      Lr: 0.00000000
+tensor(0.3921, device='cuda:0')
+EPOCH 15 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.347729    time: 87m 45s     Tokens per Sec:   3504     Step:   6947      Lr: 0.00085814
+Epoch Step:  51   Loss:   0.430132    time: 88m 22s     Tokens per Sec:   6787     Step:   6997      Lr: 0.00086431
+Epoch Step: 101   Loss:   0.358084    time:  89m 0s     Tokens per Sec:   6886     Step:   7047      Lr: 0.00087049
+Epoch Step: 151   Loss:   0.584779    time: 89m 37s     Tokens per Sec:   6790     Step:   7097      Lr: 0.00087667
+Epoch Step: 201   Loss:   0.483116    time: 90m 15s     Tokens per Sec:   6695     Step:   7147      Lr: 0.00088284
+Epoch Step: 251   Loss:   0.403808    time: 90m 53s     Tokens per Sec:   6781     Step:   7197      Lr: 0.00088902
+Epoch Step: 301   Loss:   0.366431    time: 91m 30s     Tokens per Sec:   6810     Step:   7247      Lr: 0.00089520
+Epoch Step: 351   Loss:   0.463964    time:  92m 7s     Tokens per Sec:   6786     Step:   7297      Lr: 0.00090137
+Epoch Step: 401   Loss:   0.414084    time: 92m 45s     Tokens per Sec:   6909     Step:   7347      Lr: 0.00090755
+Epoch Step: 451   Loss:   0.768345    time: 93m 23s     Tokens per Sec:   6748     Step:   7397      Lr: 0.00091373
+Epoch Step:   1   Loss:   0.360962    time: 93m 32s     Tokens per Sec:   5373     Step:      0      Lr: 0.00000000
+tensor(0.3933, device='cuda:0')
+EPOCH 16 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.465474    time: 93m 36s     Tokens per Sec:   3286     Step:   7410      Lr: 0.00091533
+Epoch Step:  51   Loss:   0.363014    time: 94m 14s     Tokens per Sec:   6775     Step:   7460      Lr: 0.00092151
+Epoch Step: 101   Loss:   0.376505    time: 94m 51s     Tokens per Sec:   6830     Step:   7510      Lr: 0.00092768
+Epoch Step: 151   Loss:   0.414906    time: 95m 29s     Tokens per Sec:   6762     Step:   7560      Lr: 0.00093386
+Epoch Step: 201   Loss:   0.432099    time:  96m 6s     Tokens per Sec:   6886     Step:   7610      Lr: 0.00094004
+Epoch Step: 251   Loss:   0.404710    time: 96m 44s     Tokens per Sec:   6772     Step:   7660      Lr: 0.00094621
+Epoch Step: 301   Loss:   0.422299    time: 97m 21s     Tokens per Sec:   6760     Step:   7710      Lr: 0.00095239
+Epoch Step: 351   Loss:   0.413013    time: 97m 59s     Tokens per Sec:   6746     Step:   7760      Lr: 0.00095857
+Epoch Step: 401   Loss:   0.391020    time: 98m 36s     Tokens per Sec:   6946     Step:   7810      Lr: 0.00096474
+Epoch Step: 451   Loss:   0.364106    time: 99m 14s     Tokens per Sec:   6864     Step:   7860      Lr: 0.00097092
+Epoch Step:   1   Loss:   0.355501    time: 99m 24s     Tokens per Sec:   5298     Step:      0      Lr: 0.00000000
+tensor(0.3804, device='cuda:0')
+EPOCH 17 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.376205    time: 99m 28s     Tokens per Sec:   3111     Step:   7873      Lr: 0.00097252
+Epoch Step:  51   Loss:   0.371508    time: 100m 5s     Tokens per Sec:   6621     Step:   7923      Lr: 0.00097870
+Epoch Step: 101   Loss:   0.350530    time:100m 43s     Tokens per Sec:   6861     Step:   7973      Lr: 0.00098488
+Epoch Step: 151   Loss:   0.367229    time:101m 21s     Tokens per Sec:   6890     Step:   8023      Lr: 0.00098679
+Epoch Step: 201   Loss:   0.432243    time:101m 58s     Tokens per Sec:   6847     Step:   8073      Lr: 0.00098373
+Epoch Step: 251   Loss:   0.466971    time:102m 35s     Tokens per Sec:   6773     Step:   8123      Lr: 0.00098070
+Epoch Step: 301   Loss:   0.763072    time:103m 12s     Tokens per Sec:   7025     Step:   8173      Lr: 0.00097770
+Epoch Step: 351   Loss:   0.379185    time:103m 49s     Tokens per Sec:   6793     Step:   8223      Lr: 0.00097472
+Epoch Step: 401   Loss:   0.368082    time:104m 27s     Tokens per Sec:   6857     Step:   8273      Lr: 0.00097177
+Epoch Step: 451   Loss:   0.351744    time: 105m 4s     Tokens per Sec:   6828     Step:   8323      Lr: 0.00096885
+Epoch Step:   1   Loss:   0.327484    time:105m 14s     Tokens per Sec:   5289     Step:      0      Lr: 0.00000000
+tensor(0.3471, device='cuda:0')
+EPOCH 18 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.364215    time:105m 18s     Tokens per Sec:   3358     Step:   8336      Lr: 0.00096809
+Epoch Step:  51   Loss:   0.421101    time:105m 56s     Tokens per Sec:   6890     Step:   8386      Lr: 0.00096520
+Epoch Step: 101   Loss:   0.362651    time:106m 33s     Tokens per Sec:   6838     Step:   8436      Lr: 0.00096234
+Epoch Step: 151   Loss:   0.373515    time:107m 10s     Tokens per Sec:   6806     Step:   8486      Lr: 0.00095950
+Epoch Step: 201   Loss:   0.411233    time:107m 48s     Tokens per Sec:   6905     Step:   8536      Lr: 0.00095668
+Epoch Step: 251   Loss:   0.352457    time:108m 26s     Tokens per Sec:   6668     Step:   8586      Lr: 0.00095389
+Epoch Step: 301   Loss:   0.368314    time: 109m 3s     Tokens per Sec:   6859     Step:   8636      Lr: 0.00095113
+Epoch Step: 351   Loss:   0.386375    time:109m 40s     Tokens per Sec:   6887     Step:   8686      Lr: 0.00094839
+Epoch Step: 401   Loss:   0.535530    time:110m 17s     Tokens per Sec:   6885     Step:   8736      Lr: 0.00094567
+Epoch Step: 451   Loss:   0.395532    time:110m 54s     Tokens per Sec:   6885     Step:   8786      Lr: 0.00094297
+Epoch Step:   1   Loss:   0.329731    time: 111m 4s     Tokens per Sec:   5354     Step:      0      Lr: 0.00000000
+tensor(0.3449, device='cuda:0')
+EPOCH 19 --------------------------------------------------------------
+Epoch Step:   1   Loss:   0.401041    time: 111m 8s     Tokens per Sec:   3347     Step:   8799      Lr: 0.00094228
+Epoch Step:  51   Loss:   0.381055    time:111m 45s     Tokens per Sec:   6707     Step:   8849      Lr: 0.00093961
+Epoch Step: 101   Loss:   0.422146    time:112m 23s     Tokens per Sec:   6860     Step:   8899      Lr: 0.00093697
+Epoch Step: 151   Loss:   0.428777    time: 113m 0s     Tokens per Sec:   6599     Step:   8949      Lr: 0.00093435
+Epoch Step: 201   Loss:   0.374565    time:113m 38s     Tokens per Sec:   6947     Step:   8999      Lr: 0.00093175
+Epoch Step: 251   Loss:   0.384559    time:114m 16s     Tokens per Sec:   6744     Step:   9049      Lr: 0.00092917
+Epoch Step: 301   Loss:   0.373698    time:114m 53s     Tokens per Sec:   6802     Step:   9099      Lr: 0.00092661
+Epoch Step: 351   Loss:   0.385086    time:115m 31s     Tokens per Sec:   6925     Step:   9149      Lr: 0.00092408
+Epoch Step: 401   Loss:   0.464616    time: 116m 8s     Tokens per Sec:   6940     Step:   9199      Lr: 0.00092156
+Epoch Step: 451   Loss:   0.332907    time:116m 45s     Tokens per Sec:   6927     Step:   9249      Lr: 0.00091907
+Epoch Step:   1   Loss:   0.314961    time:116m 54s     Tokens per Sec:   5344     Step:      0      Lr: 0.00000000
+tensor(0.3318, device='cuda:0')
+train over
+test
+Source      :	should have accepted his advice . 
+Target      :	Lei avrebbe dovuto accettarlo il suo consiglio . 
+Translation :	Avresti dovuto accettare il suo consiglio . 
